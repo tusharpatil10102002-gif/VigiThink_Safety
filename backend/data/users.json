@@ -1,0 +1,99 @@
+[
+  {
+    "id": "admin",
+    "username": "Admin@vigithink.com",
+    "passwordHash": "$2a$10$AOrqDnA88DLjgnX3f5bEmezwDa6KTMxYpB//T8dfTmg5mLuw5BYUW",
+    "name": "System Administrator",
+    "role": "Admin",
+    "email": "Admin@vigithink.com",
+    "createdAt": "2026-07-14T04:21:30.089Z",
+    "activeToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFkbWluIiwidXNlcm5hbWUiOiJBZG1pbkB2aWdpdGhpbmsuY29tIiwibmFtZSI6IlN5c3RlbSBBZG1pbmlzdHJhdG9yIiwicm9sZSI6IkFkbWluIiwiaWF0IjoxNzk0NzY1NDM2LCJleHAiOjE3OTQ3OTQyMzZ9.4OnygEgZ-a4LDPna_k0oct1EO25X0d8BUMlzPnFHWtM"
+  },
+  {
+    "id": "triage",
+    "username": "Triage@vigithink.com",
+    "passwordHash": "$2a$10$AOrqDnA88DLjgnX3f5bEmezwDa6KTMxYpB//T8dfTmg5mLuw5BYUW",
+    "name": "Case Triage Officer",
+    "role": "Intake",
+    "email": "Triage@vigithink.com",
+    "createdAt": "2026-07-14T04:21:30.168Z"
+  },
+  {
+    "id": "dataentry",
+    "username": "DataEntry@vigithink.com",
+    "passwordHash": "$2a$10$AOrqDnA88DLjgnX3f5bEmezwDa6KTMxYpB//T8dfTmg5mLuw5BYUW",
+    "name": "Data Entry Associate",
+    "role": "Data Entry",
+    "email": "DataEntry@vigithink.com",
+    "createdAt": "2026-07-14T04:21:30.251Z"
+  },
+  {
+    "id": "qc",
+    "username": "QualityReview@vigithink.com",
+    "passwordHash": "$2a$10$AOrqDnA88DLjgnX3f5bEmezwDa6KTMxYpB//T8dfTmg5mLuw5BYUW",
+    "name": "QC Specialist",
+    "role": "Quality Control",
+    "email": "QualityReview@vigithink.com",
+    "createdAt": "2026-07-14T04:21:30.331Z"
+  },
+  {
+    "id": "mr",
+    "username": "MedicalReview@vigithink.com",
+    "passwordHash": "$2a$10$AOrqDnA88DLjgnX3f5bEmezwDa6KTMxYpB//T8dfTmg5mLuw5BYUW",
+    "name": "Medical Reviewer",
+    "role": "Medical Review",
+    "email": "MedicalReview@vigithink.com",
+    "createdAt": "2026-07-14T04:21:30.447Z"
+  },
+  {
+    "id": "submission",
+    "username": "Submission@vigithink.com",
+    "passwordHash": "$2a$10$AOrqDnA88DLjgnX3f5bEmezwDa6KTMxYpB//T8dfTmg5mLuw5BYUW",
+    "name": "Regulatory Submission Lead",
+    "role": "Submission",
+    "email": "Submission@vigithink.com",
+    "createdAt": "2026-07-14T04:21:30.528Z"
+  },
+  {
+    "id": "tushar_patil",
+    "username": "Tushar.Patil@vigithink.com",
+    "passwordHash": "$2a$10$AOrqDnA88DLjgnX3f5bEmezwDa6KTMxYpB//T8dfTmg5mLuw5BYUW",
+    "name": "Tushar Patil",
+    "role": "Admin",
+    "email": "Tushar.Patil@vigithink.com",
+    "createdAt": "2026-07-14T04:21:30.611Z"
+  },
+  {
+    "id": "shriraj_patil",
+    "username": "Shriraj.Patil@vigithink.com",
+    "passwordHash": "$2a$10$SIqZS7g2W8Cb3Njb1twMP.4te/wO1jYrlOa1xK93Harw3wjGN7ybO",
+    "name": "Shriraj Patil",
+    "firstName": "Shriraj",
+    "lastName": "Patil",
+    "role": "Data Entry",
+    "email": "Shriraj.Patil@vigithink.com",
+    "createdAt": "2026-07-18T19:33:19.338Z"
+  },
+  {
+    "id": "sweety_gade",
+    "username": "Sweety.Gade@vigithink.com",
+    "passwordHash": "$2a$10$zDfBhs6KGezdt.wo1Lvbo.dDwqttfbvVAnagnXCaTs0BUMBS7TxQC",
+    "name": "Sweety Gade",
+    "firstName": "Sweety",
+    "lastName": "Gade",
+    "role": "Data Entry",
+    "email": "Sweety.Gade@vigithink.com",
+    "createdAt": "2026-07-18T19:33:19.407Z"
+  },
+  {
+    "id": "mansi_agrawal",
+    "username": "Mansi.Agrawal@vigithink.com",
+    "passwordHash": "$2a$10$ECcEVzQuF6ziq1MxHjtYu.HY52vtC8xa24p146LoVONdLv.2tmUA.",
+    "name": "Mansi Agrawal",
+    "firstName": "Mansi",
+    "lastName": "Agrawal",
+    "role": "Data Entry",
+    "email": "Mansi.Agrawal@vigithink.com",
+    "createdAt": "2026-07-18T19:33:19.475Z"
+  }
+]

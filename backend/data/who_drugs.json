@@ -1,0 +1,57 @@
+[
+  {
+    "trade_name": "Wonder Drug (USA)",
+    "generic_name": "AMOXICILLIN TRIHYDRATE",
+    "drug_code": "001243",
+    "formulation": "Tablet",
+    "concentration": "500 mg",
+    "manufacturer": "Vigithink Pharma",
+    "atc_code": "J01CA04",
+    "atc_description": "Amoxicillin",
+    "country": "UNITED STATES"
+  },
+  {
+    "trade_name": "Cure All ORAL",
+    "generic_name": "NITROPRUSSIDE",
+    "drug_code": "002581",
+    "formulation": "Slow Release Tablet",
+    "concentration": "50 mg",
+    "manufacturer": "Safe Labs",
+    "atc_code": "C02DD01",
+    "atc_description": "Nitroprusside",
+    "country": "UNITED STATES"
+  },
+  {
+    "trade_name": "NEXIUM",
+    "generic_name": "ESOMEPRAZOLE MAGNESIUM",
+    "drug_code": "014793",
+    "formulation": "Capsule",
+    "concentration": "40 mg",
+    "manufacturer": "AstraZeneca",
+    "atc_code": "A02BC05",
+    "atc_description": "Esomeprazole",
+    "country": "UNITED STATES"
+  },
+  {
+    "trade_name": "Panadol",
+    "generic_name": "PARACETAMOL",
+    "drug_code": "000523",
+    "formulation": "Tablet",
+    "concentration": "500 mg",
+    "manufacturer": "GSK",
+    "atc_code": "N02BE01",
+    "atc_description": "Paracetamol",
+    "country": "UNITED KINGDOM"
+  },
+  {
+    "trade_name": "Lipitor",
+    "generic_name": "ATORVASTATIN CALCIUM",
+    "drug_code": "012354",
+    "formulation": "Tablet",
+    "concentration": "20 mg",
+    "manufacturer": "Pfizer",
+    "atc_code": "C10AA05",
+    "atc_description": "Atorvastatin",
+    "country": "UNITED STATES"
+  }
+]
